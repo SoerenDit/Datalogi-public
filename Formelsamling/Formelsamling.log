@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7140 64-bit) (preloaded format=pdflatex 2019.8.26)  28 AUG 2019 15:05
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7140 64-bit) (preloaded format=pdflatex 2019.8.26)  28 AUG 2019 16:05
 entering extended mode
 **./Formelsamling.tex
 (Formelsamling.tex
@@ -309,22 +309,15 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 54.
  (Formelsamling.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 54.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 54.
-
-
-Package rerunfilecheck Warning: File `Formelsamling.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `Formelsamling.out':
-(rerunfilecheck)             Before: CEF6ACE9AEF29B810DA74B7718B97EB8;64
-(rerunfilecheck)             After:  45F6B83425BC7850D1C002B280451AF1;193.
+Package rerunfilecheck Info: File `Formelsamling.out' has not changed.
+(rerunfilecheck)             Checksum: 45F6B83425BC7850D1C002B280451AF1;193.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 54.
  ) 
 Here is how much of TeX's memory you used:
- 5344 strings out of 492895
- 80523 string characters out of 3133476
+ 5346 strings out of 492895
+ 80445 string characters out of 3133476
  177707 words of memory out of 3000000
- 9237 multiletter control sequences out of 15000+200000
+ 9239 multiletter control sequences out of 15000+200000
  9626 words of font info for 35 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  30i,6n,32p,261b,322s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -336,9 +329,9 @@ nts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1
 /public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/am
 sfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/c
 m/cmsy8.pfb>
-Output written on Formelsamling.pdf (1 page, 83969 bytes).
+Output written on Formelsamling.pdf (1 page, 84455 bytes).
 PDF statistics:
- 50 PDF objects out of 1000 (max. 8388607)
+ 56 PDF objects out of 1000 (max. 8388607)
  5 named destinations out of 1000 (max. 500000)
- 9 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 25 words of extra memory for PDF output out of 10000 (max. 10000000)
 
